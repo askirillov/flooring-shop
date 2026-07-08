@@ -64,11 +64,16 @@ async function loadProducts() {
         
         if (csvText && csvText.includes('Артикул')) {
             const freshProducts = parseCSV(csvText);
-            if (freshProducts.length > 0) {
+            if (freshProducts.length >= 3) {
                 allProducts = freshProducts;
                 localStorage.setItem('flooringCache', JSON.stringify(allProducts));
                 localStorage.setItem('flooringCacheTime', Date.now().toString());
+            } else {
+                console.log('CSV has < 3 products, using demo data');
+                throw new Error('Insufficient data');
             }
+        } else {
+            throw new Error('No CSV');
         }
         
         populateFilters();
