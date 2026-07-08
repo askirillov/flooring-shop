@@ -1,105 +1,52 @@
-// Flooring Shop PWA v5 - Google Sheets CSV
-const SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTUzA3wfAi14jLyPbnDImO0c-hANSdm0CUy5qR9L3FZ9SMtsYXaH1pzXUdJ1wI2oUqcVbD9QtXXIyL7/pub?gid=0&single=true&output=csv';
+// Flooring Shop PWA - GitHub Pages JSON (fast, no external dependencies)
+// Data loads from products.json directly on GitHub Pages
 
 let allProducts = [];
 let filteredProducts = [];
 let cart = JSON.parse(localStorage.getItem('flooringCart') || '[]');
 let pdfDataUrl = null;
 
-// Parse CSV text to array of objects
-function parseCSV(csvText) {
-    const lines = csvText.trim().split('\n');
-    if (lines.length < 2) return [];
-    
-    const headers = lines[0].split('|').map(h => h.trim());
-    const products = [];
-    
-    for (let i = 1; i < lines.length; i++) {
-        const values = lines[i].split('|').map(v => v.trim());
-        if (!values[0]) continue; // skip empty rows
-        
-        const product = {};
-        headers.forEach((header, index) => {
-            product[header] = values[index] || '';
-        });
-        
-        // Map to expected field names
-        product.sku = product['Артикул'] || i;
-        product.design = product['Дизайн'] || '';
-        product.collection = product['Коллекция'] || '';
-        product.type = product['Вид'] || '';
-        product.width = parseFloat(product['Ширина']) || 0;
-        product.price = parseFloat(product['Цена']) || 0;
-        product.stock = parseFloat(product['Остаток м²']) || 0;
-        product.thickness = parseFloat(product['Толщина']) || 2.5;
-        product.wearLayer = parseFloat(product['Защита']) || 0.2;
-        product.promotion = (product['Акция'] || '').toLowerCase().trim();
-        product.image = product['Фото'] || '';
-        
-        // Calculate roll area and price
-        product.roll_area = product.width * 20; // ~20m standard roll length
-        product.rollPrice = Math.round(product.price * product.roll_area);
-        
-        products.push(product);
-    }
-    
-    return products;
-}
-
 async function loadProducts() {
     try {
-        // 1. Показываем кэш мгновенно (если есть)
+        // Load from products.json (fast, hosted on same domain)
+        const response = await fetch('products.json?v=' + Date.now());
+        const data = await response.json();
+        
+        if (Array.isArray(data) && data.length > 0) {
+            allProducts = data;
+            // Ensure all fields exist
+            allProducts.forEach(p => {
+                p.thickness = p.thickness || 2.5;
+                p.wearLayer = p.wearLayer || 0.2;
+                p.roll_area = p.roll_area || (p.width * 20);
+                p.rollPrice = p.rollPrice || Math.round(p.price * p.roll_area);
+                p.image = p.image || '';
+                p.promotion = p.promotion || '';
+            });
+            localStorage.setItem('flooringCache', JSON.stringify(allProducts));
+            localStorage.setItem('flooringCacheTime', Date.now().toString());
+        } else {
+            throw new Error('No products');
+        }
+        
+        populateFilters();
+        applyFilters();
+        updateCartBar();
+        
+        const dateStr = new Date().toLocaleDateString('ru-RU');
+        document.getElementById('updateDate').textContent = dateStr;
+        
+    } catch (error) {
+        console.error('Error loading products:', error);
+        // Try cache
         const cached = localStorage.getItem('flooringCache');
         if (cached) {
             allProducts = JSON.parse(cached);
             populateFilters();
             applyFilters();
             updateCartBar();
-            document.getElementById('updateDate').textContent = 'Обновление...';
+            document.getElementById('updateDate').textContent = 'Кэш';
         }
-        
-        // 2. Фоном тянем свежие данные из Google Sheets
-        const response = await fetch(SHEET_CSV_URL + '&_=' + Date.now());
-        const csvText = await response.text();
-        
-        if (csvText && csvText.includes('Артикул')) {
-            const freshProducts = parseCSV(csvText);
-            if (freshProducts.length >= 3) {
-                allProducts = freshProducts;
-                localStorage.setItem('flooringCache', JSON.stringify(allProducts));
-                localStorage.setItem('flooringCacheTime', Date.now().toString());
-            } else {
-                console.log('CSV has < 3 products, using demo data');
-                throw new Error('Insufficient data');
-            }
-        } else {
-            throw new Error('No CSV');
-        }
-        
-        populateFilters();
-        applyFilters();
-        updateCartBar();
-        
-        const cacheTime = localStorage.getItem('flooringCacheTime');
-        const dateStr = cacheTime ? new Date(parseInt(cacheTime)).toLocaleDateString('ru-RU') : new Date().toLocaleDateString('ru-RU');
-        document.getElementById('updateDate').textContent = dateStr;
-        
-    } catch (error) {
-        console.error('Error:', error);
-        // Fallback: показываем тестовые данные если всё сломалось
-        const response = await fetch('products.json?v=2');
-        allProducts = await response.json();
-        allProducts.forEach(p => {
-            p.thickness = p.thickness || 2.5;
-            p.wearLayer = p.wearLayer || 0.2;
-            p.rollPrice = Math.round(p.price * p.roll_area);
-            p.image = p.image || '';
-            p.promotion = p.promotion || '';
-        });
-        populateFilters();
-        applyFilters();
-        updateCartBar();
-        document.getElementById('updateDate').textContent = 'Демо-данные';
     }
 }
 
