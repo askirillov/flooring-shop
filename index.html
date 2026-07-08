@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#2c3e50">
+    <title>Линолеум Оптом</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            -webkit-tap-highlight-color: transparent;
+            padding-bottom: 70px;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 8px 15px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header h1 { font-size: 16px; margin-bottom: 2px; }
+        .header p { font-size: 11px; opacity: 0.9; }
+        
+        .header-actions {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 6px;
+        }
+        
+        .header-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 11px;
+            cursor: pointer;
+        }
+        
+        .filters {
+            background: white;
+            padding: 8px;
+            display: flex;
+            gap: 5px;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            border-bottom: 1px solid #e0e0e0;
+            position: sticky;
+            top: 62px;
+            z-index: 99;
+            scrollbar-width: none;
+        }
+        
+        .filters::-webkit-scrollbar { display: none; }
+        
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+            flex-shrink: 0;
+        }
+        
+        .filter-group label {
+            font-size: 9px;
+            color: #666;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        
+        .filter-group select {
+            padding: 5px 8px;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            font-size: 12px;
+            background: white;
+            min-width: 80px;
+            max-width: 110px;
+        }
+        
+        .stats-bar {
+            background: white;
+            padding: 5px 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #666;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 10px;
+            padding: 10px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .product-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        }
+        
+        .product-image {
+            width: 100%;
+            height: 150px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 60px;
+        }
+        
+        .product-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .product-info {
+            padding: 10px;
+        }
+        
+        .product-collection {
+            font-size: 10px;
+            color: #667eea;
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-bottom: 3px;
+        }
+        
+        .product-design {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            line-height: 1.3;
+        }
+        
+        .product-tags {
+            display: flex;
+            gap: 4px;
+            flex-wrap: wrap;
+            margin-bottom: 8px;
+        }
+        
+        .tag {
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 10px;
+            font-weight: 600;
+        }
+        
+        .tag-type { background: #e3f2fd; color: #1976d2; }
+        .tag-width { background: #f3e5f5; color: #7b1fa2; }
+        .tag-stock { background: #e8f5e9; color: #388e3c; }
+        .tag-price { background: #fff3e0; color: #f57c00; }
+        .tag-thickness { background: #fce4ec; color: #c2185b; }
+        .tag-sale { background: #ff5252; color: white; }
+        .tag-action { background: #ff9800; color: white; }
+        
+        .product-price-block {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        
+        .price-roll {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        
+        .price-roll .price-label {
+            font-size: 12px;
+            font-weight: normal;
+            opacity: 0.9;
+        }
+        
+        .price-m2 {
+            font-size: 11px;
+            opacity: 0.8;
+            margin-top: 2px;
+        }
+        
+        .product-details {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 4px;
+            margin-bottom: 10px;
+            font-size: 11px;
+        }
+        
+        .detail-item {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .detail-label { color: #999; }
+        .detail-value { font-weight: 600; }
+        
+        .qty-selector {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+            justify-content: center;
+        }
+        
+        .qty-selector label {
+            font-size: 12px;
+            color: #666;
+        }
+        
+        .qty-selector input {
+            width: 60px;
+            padding: 6px;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            text-align: center;
+            font-size: 14px;
+        }
+        
+        .product-actions {
+            display: flex;
+            gap: 6px;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .btn-success {
+            background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+            color: white;
+        }
+        
+        .btn-danger {
+            background: #e74c3c;
+            color: white;
+        }
+        
+        /* Bottom Cart Bar */
+        .cart-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            border-top: 1px solid #e0e0e0;
+            padding: 8px 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 200;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .cart-bar-info {
+            font-size: 13px;
+        }
+        
+        .cart-bar-count {
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .cart-bar-total {
+            font-weight: bold;
+            font-size: 14px;
+        }
+        
+        .cart-bar-actions {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .cart-bar-btn {
+            padding: 8px 14px;
+            border: none;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        
+        .cart-bar-btn.primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .cart-bar-btn.secondary {
+            background: #f5f5f5;
+            color: #333;
+        }
+        
+        /* Cart Panel */
+        .cart-panel {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 60px;
+            background: white;
+            z-index: 199;
+            overflow-y: auto;
+            padding: 15px;
+        }
+        
+        .cart-panel.active {
+            display: block;
+        }
+        
+        .cart-panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .cart-panel-header h2 {
+            font-size: 18px;
+        }
+        
+        .cart-item {
+            display: flex;
+            gap: 10px;
+            padding: 12px;
+            border-bottom: 1px solid #f0f0f0;
+            align-items: center;
+        }
+        
+        .cart-item-info {
+            flex: 1;
+        }
+        
+        .cart-item-name {
+            font-weight: bold;
+            font-size: 13px;
+            margin-bottom: 2px;
+        }
+        
+        .cart-item-meta {
+            font-size: 11px;
+            color: #666;
+        }
+        
+        .cart-item-price {
+            font-weight: bold;
+            color: #667eea;
+            font-size: 12px;
+        }
+        
+        .cart-item-qty {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .qty-btn {
+            width: 28px;
+            height: 28px;
+            border: 1px solid #e0e0e0;
+            background: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        .cart-item-sum {
+            font-weight: bold;
+            color: #667eea;
+            font-size: 13px;
+            min-width: 80px;
+            text-align: right;
+        }
+        
+        /* PDF Preview */
+        .pdf-preview {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.8);
+            z-index: 300;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .pdf-preview.active {
+            display: flex;
+        }
+        
+        .pdf-preview img {
+            max-width: 100%;
+            max-height: 80vh;
+            border-radius: 8px;
+        }
+        
+        .pdf-preview-actions {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 16px;
+            color: #999;
+        }
+        
+        .empty {
+            text-align: center;
+            padding: 40px 20px;
+        }
+        
+        .empty-icon { font-size: 50px; margin-bottom: 10px; }
+        .empty h3 { margin-bottom: 5px; font-size: 16px; }
+        .empty p { color: #999; font-size: 13px; }
+        
+        @media (max-width: 600px) {
+            .products-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏢 Линолеум Оптом</h1>
+        <p>Остатки со склада • <span id="updateDate">-</span></p>
+        <div class="header-actions">
+            <button class="header-btn" onclick="filterPromo('sale')">💥 Распродажа</button>
+            <button class="header-btn" onclick="filterPromo('action')">🔥 Акция</button>
+            <button class="header-btn" onclick="showAll()">📦 Все товары</button>
+            <button class="header-btn" onclick="shareShop()">📤 Поделиться</button>
+        </div>
+    </div>
+    
+    <div class="filters">
+        <div class="filter-group">
+            <label>Вид</label>
+            <select id="filterType">
+                <option value="">Все</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Ширина</label>
+            <select id="filterWidth">
+                <option value="">Все</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Коллекция</label>
+            <select id="filterCollection">
+                <option value="">Все</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Толщина</label>
+            <select id="filterThickness">
+                <option value="">Все</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <label>Защита</label>
+            <select id="filterWearLayer">
+                <option value="">Все</option>
+            </select>
+        </div>
+    </div>
+    
+    <div class="stats-bar">
+        Найдено: <strong id="productCount">0</strong> позиций
+    </div>
+    
+    <div class="products-grid" id="productsGrid">
+        <div class="loading">Загрузка каталога...</div>
+    </div>
+
+    <!-- Cart Panel -->
+    <div class="cart-panel" id="cartPanel">
+        <div class="cart-panel-header">
+            <button class="close-btn" onclick="toggleCart()" style="font-size:14px;display:flex;align-items:center;gap:4px;">← Назад</button>
+            <h2>🛒 Корзина</h2>
+            <div style="width:60px;"></div>
+        </div>
+        <div id="cartItems">
+            <div class="empty">
+                <div class="empty-icon">🛒</div>
+                <h3>Корзина пуста</h3>
+                <p>Добавьте товары из каталога</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bottom Cart Bar -->
+    <div class="cart-bar" id="cartBar" style="display:none">
+        <div class="cart-bar-info">
+            <span class="cart-bar-count" id="cartCount">0</span> позиций
+        </div>
+        <div class="cart-bar-total" id="cartBarTotal">0 ₽</div>
+        <div class="cart-bar-actions">
+            <button class="cart-bar-btn secondary" onclick="toggleCart()">🛒</button>
+            <button class="cart-bar-btn primary" onclick="showPDF()">📄 PDF</button>
+            <button class="cart-bar-btn primary" onclick="shareCart()">📤</button>
+        </div>
+    </div>
+
+    <!-- PDF Preview -->
+    <div class="pdf-preview" id="pdfPreview">
+        <img id="pdfImage" src="" alt="PDF Preview">
+        <div class="pdf-preview-actions">
+            <button class="btn btn-primary" onclick="downloadPDF()">⬇ Сохранить</button>
+            <button class="btn btn-secondary" onclick="closePDF()">Закрыть</button>
+        </div>
+    </div>
+
+    <script src="app.js?v=3"></script>
+</body>
+</html>

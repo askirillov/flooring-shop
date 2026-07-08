@@ -1,0 +1,3872 @@
+[
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Karakas 6 (Каракас 6)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 31.5,
+    "price": 370,
+    "sku": 733188
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Vero 8 (Веро 8)",
+    "width": 3.5,
+    "roll_area": 140.0,
+    "stock": 585.55,
+    "price": 370,
+    "sku": 733192
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 2.0,
+    "roll_area": 80.0,
+    "stock": 160.0,
+    "price": 370,
+    "sku": 730655
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 2.5,
+    "roll_area": 100.0,
+    "stock": 2983.75,
+    "price": 370,
+    "sku": 730656
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 3.0,
+    "roll_area": 120.0,
+    "stock": 1318.5,
+    "price": 370,
+    "sku": 730657
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 3.5,
+    "roll_area": 140.0,
+    "stock": 5119.8,
+    "price": 370,
+    "sku": 730658
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 4.0,
+    "roll_area": 160.0,
+    "stock": 7925.6,
+    "price": 370,
+    "sku": 730659
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Navi 3 (Нави 3)",
+    "width": 2.5,
+    "roll_area": 100.0,
+    "stock": 3076.0,
+    "price": 370,
+    "sku": 734407
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Navi 3 (Нави 3)",
+    "width": 3.0,
+    "roll_area": 120.0,
+    "stock": 4009.5,
+    "price": 370,
+    "sku": 734406
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Navi 3 (Нави 3)",
+    "width": 3.5,
+    "roll_area": 140.0,
+    "stock": 5138.3,
+    "price": 370,
+    "sku": 734405
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Navi 3 (Нави 3)",
+    "width": 4.0,
+    "roll_area": 160.0,
+    "stock": 8194.8,
+    "price": 370,
+    "sku": 734404
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Insbruk 4 (Инсбрук 4)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 120.0,
+    "price": 370,
+    "sku": 728282
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Italian Oak 4 (Итальянский Дуб 4)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 32.25,
+    "price": 370,
+    "sku": 728298
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Italian Oak 4 (Итальянский Дуб 4)",
+    "width": 2.5,
+    "roll_area": 100.0,
+    "stock": 859.0,
+    "price": 370,
+    "sku": 728300
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Italian Oak 4 (Итальянский Дуб 4)",
+    "width": 3.5,
+    "roll_area": 140.0,
+    "stock": 400.75,
+    "price": 370,
+    "sku": 728302
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Italian Oak 1 (Итальянский Дуб 1)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 60.0,
+    "price": 370,
+    "sku": 728290
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Italian Oak 1 (Итальянский Дуб 1)",
+    "width": 3.0,
+    "roll_area": 120.0,
+    "stock": 1557.3,
+    "price": 370,
+    "sku": 728292
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Italian Oak 1 (Итальянский Дуб 1)",
+    "width": 3.5,
+    "roll_area": 140.0,
+    "stock": 836.5,
+    "price": 370,
+    "sku": 728293
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Liverpool 3 (Ливерпуль 3)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 60.0,
+    "price": 370,
+    "sku": 723598
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Liverpool 3 (Ливерпуль 3)",
+    "width": 2.0,
+    "roll_area": 80.0,
+    "stock": 80.0,
+    "price": 370,
+    "sku": 723599
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Liverpool 3 (Ливерпуль 3)",
+    "width": 3.0,
+    "roll_area": 120.0,
+    "stock": 318.0,
+    "price": 370,
+    "sku": 723601
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Aventura 3 (Авентура 3)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 27.0,
+    "price": 370,
+    "sku": 723590
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Aventura 3 (Авентура 3)",
+    "width": 4.0,
+    "roll_area": 160.0,
+    "stock": 910.8,
+    "price": 370,
+    "sku": 723595
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Vegas 5 (Вегас 5)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 60.0,
+    "price": 370,
+    "sku": 719228
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Vegas 5 (Вегас 5)",
+    "width": 2.5,
+    "roll_area": 100.0,
+    "stock": 683.5,
+    "price": 370,
+    "sku": 719230
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Vegas 5 (Вегас 5)",
+    "width": 4.0,
+    "roll_area": 160.0,
+    "stock": 764.4,
+    "price": 370,
+    "sku": 719233
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flash (Флэш)",
+    "design": "Modest 3 (Модест 3)",
+    "width": 1.5,
+    "roll_area": 60.0,
+    "stock": 154.95,
+    "price": 370,
+    "sku": 731445
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Muskat 3 (Мускат 3)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 1150.0,
+    "price": 380,
+    "sku": 733082
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Muskat 3 (Мускат 3)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 1549.5,
+    "price": 380,
+    "sku": 733081
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Muskat 3 (Мускат 3)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 2491.3,
+    "price": 380,
+    "sku": 733080
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Muskat 3 (Мускат 3)",
+    "width": 4.0,
+    "roll_area": 148.0,
+    "stock": 2861.2,
+    "price": 380,
+    "sku": 733079
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 2 (Вегас 2)",
+    "width": 2.0,
+    "roll_area": 74.0,
+    "stock": 367.0,
+    "price": 380,
+    "sku": 714915
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 2 (Вегас 2)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 969.5,
+    "price": 380,
+    "sku": 714916
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 2 (Вегас 2)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 2354.8,
+    "price": 380,
+    "sku": 714918
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 2 (Вегас 2)",
+    "width": 4.0,
+    "roll_area": 148.0,
+    "stock": 236.0,
+    "price": 380,
+    "sku": 714913
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 2.0,
+    "roll_area": 74.0,
+    "stock": 409.0,
+    "price": 380,
+    "sku": 714919
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 1110.0,
+    "price": 380,
+    "sku": 714921
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 3717.0,
+    "price": 380,
+    "sku": 714922
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 4.0,
+    "roll_area": 148.0,
+    "stock": 458.0,
+    "price": 380,
+    "sku": 714912
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Bennet 1 (Беннет 1)",
+    "width": 1.5,
+    "roll_area": 55.5,
+    "stock": 372.0,
+    "price": 380,
+    "sku": 725800
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Bennet 1 (Беннет 1)",
+    "width": 2.0,
+    "roll_area": 74.0,
+    "stock": 74.0,
+    "price": 380,
+    "sku": 725801
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Bennet 1 (Беннет 1)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 2220.0,
+    "price": 380,
+    "sku": 725803
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Brisbane 4 (Брисбен 4)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 1552.75,
+    "price": 380,
+    "sku": 725627
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Brisbane 4 (Брисбен 4)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 2002.5,
+    "price": 380,
+    "sku": 725628
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Brisbane 4 (Брисбен 4)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 6272.7,
+    "price": 380,
+    "sku": 725629
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Brisbane 4 (Брисбен 4)",
+    "width": 4.0,
+    "roll_area": 148.0,
+    "stock": 144.4,
+    "price": 380,
+    "sku": 725630
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 20 (Вегас 20)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 953.05,
+    "price": 380,
+    "sku": 725670
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Trend (Тренд)",
+    "design": "Vegas 20 (Вегас 20)",
+    "width": 4.0,
+    "roll_area": 148.0,
+    "stock": 1302.0,
+    "price": 380,
+    "sku": 725671
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "London 5 (Лондон 5)",
+    "width": 1.5,
+    "roll_area": 42.0,
+    "stock": 27.0,
+    "price": 484,
+    "sku": 719871
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "London 5 (Лондон 5)",
+    "width": 2.5,
+    "roll_area": 70.0,
+    "stock": 519.5,
+    "price": 496,
+    "sku": 717323
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "London 5 (Лондон 5)",
+    "width": 3.5,
+    "roll_area": 98.0,
+    "stock": 1195.35,
+    "price": 461,
+    "sku": 717325
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "London 6 (Лондон 6)",
+    "width": 3.0,
+    "roll_area": 84.0,
+    "stock": 852.6,
+    "price": 484,
+    "sku": 721042
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "London 6 (Лондон 6)",
+    "width": 3.5,
+    "roll_area": 98.0,
+    "stock": 399.0,
+    "price": 461,
+    "sku": 721043
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Lugano 4 (Лугано 4)",
+    "width": 2.0,
+    "roll_area": 56.0,
+    "stock": 56.0,
+    "price": 461,
+    "sku": 727962
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Lugano 4 (Лугано 4)",
+    "width": 2.5,
+    "roll_area": 70.0,
+    "stock": 2863.25,
+    "price": 496,
+    "sku": 727963
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Karakas 10 (Каракас 10)",
+    "width": 3.0,
+    "roll_area": 84.0,
+    "stock": 4514.7,
+    "price": 484,
+    "sku": 726131
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Karakas 10 (Каракас 10)",
+    "width": 3.5,
+    "roll_area": 98.0,
+    "stock": 3150.35,
+    "price": 461,
+    "sku": 726132
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Karakas 9 (Каракас 9)",
+    "width": 2.5,
+    "roll_area": 70.0,
+    "stock": 543.25,
+    "price": 496,
+    "sku": 726138
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Muskat 1 (Мускат 1)",
+    "width": 1.5,
+    "roll_area": 42.0,
+    "stock": 31.5,
+    "price": 484,
+    "sku": 731598
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Muskat 1 (Мускат 1)",
+    "width": 2.5,
+    "roll_area": 70.0,
+    "stock": 87.5,
+    "price": 496,
+    "sku": 731600
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Muskat 1 (Мускат 1)",
+    "width": 3.5,
+    "roll_area": 98.0,
+    "stock": 2127.65,
+    "price": 461,
+    "sku": 731602
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Arona 3 (Арона 3)",
+    "width": 2.5,
+    "roll_area": 70.0,
+    "stock": 285.25,
+    "price": 496,
+    "sku": 731217
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Megapolis (Мегаполис)",
+    "design": "Arona 3 (Арона 3)",
+    "width": 3.5,
+    "roll_area": 98.0,
+    "stock": 214.2,
+    "price": 461,
+    "sku": 731219
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Domino 10 (Домино 10)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 310.5,
+    "price": 300,
+    "sku": 734179
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Sofi 1 (Софи 1)",
+    "width": 2.0,
+    "roll_area": 72.0,
+    "stock": 718.6,
+    "price": 300,
+    "sku": 734196
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Sofi 1 (Софи 1)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 685.6,
+    "price": 315,
+    "sku": 734192
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Granada 2 (Гранада 2)",
+    "width": 2.0,
+    "roll_area": 72.0,
+    "stock": 47.6,
+    "price": 300,
+    "sku": 731780
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Karuzo 1 (Карузо 1)",
+    "width": 1.5,
+    "roll_area": 54.0,
+    "stock": 404.85,
+    "price": 300,
+    "sku": 731746
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Karuzo 1 (Карузо 1)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 641.25,
+    "price": 300,
+    "sku": 731748
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Karuzo 1 (Карузо 1)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 84.0,
+    "price": 315,
+    "sku": 731751
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Kortes 6 (Кортес 6)",
+    "width": 1.5,
+    "roll_area": 54.0,
+    "stock": 105.0,
+    "price": 300,
+    "sku": 731811
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Fort 5 (Форт 5)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 1019.75,
+    "price": 300,
+    "sku": 731869
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Fort 5 (Форт 5)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 976.85,
+    "price": 300,
+    "sku": 731871
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Fort 5 (Форт 5)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 402.4,
+    "price": 315,
+    "sku": 731872
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 2.0,
+    "roll_area": 72.0,
+    "stock": 72.0,
+    "price": 300,
+    "sku": 731828
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 292.25,
+    "price": 300,
+    "sku": 731829
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 871.5,
+    "price": 300,
+    "sku": 731830
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 3647.35,
+    "price": 300,
+    "sku": 731831
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 3654.4,
+    "price": 315,
+    "sku": 731832
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Arden 5 (Арден 5)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 508.8,
+    "price": 300,
+    "sku": 732585
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 1.5,
+    "roll_area": 54.0,
+    "stock": 44.25,
+    "price": 300,
+    "sku": 731843
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 46.5,
+    "price": 300,
+    "sku": 731845
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 502.95,
+    "price": 300,
+    "sku": 731847
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Tatami 2 (Татами 2)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 213.25,
+    "price": 300,
+    "sku": 732592
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Tatami 2 (Татами 2)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 54.0,
+    "price": 300,
+    "sku": 732593
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Tatami 2 (Татами 2)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 90.0,
+    "price": 315,
+    "sku": 732595
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Karuzo 2 (Карузо 2)",
+    "width": 2.0,
+    "roll_area": 72.0,
+    "stock": 357.6,
+    "price": 300,
+    "sku": 731755
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Karuzo 2 (Карузо 2)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 93.1,
+    "price": 300,
+    "sku": 731758
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Kortes 4 (Кортес 4)",
+    "width": 1.5,
+    "roll_area": 54.0,
+    "stock": 162.0,
+    "price": 300,
+    "sku": 731803
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Avanta (Аванта)",
+    "design": "Kortes 4 (Кортес 4)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 104.0,
+    "price": 315,
+    "sku": 731808
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Fabio 2 (Фабио 2)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 168.0,
+    "price": 268,
+    "sku": 732813
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Fabio 2 (Фабио 2)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 315.7,
+    "price": 268,
+    "sku": 732809
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Fabio 2 (Фабио 2)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 463.6,
+    "price": 281,
+    "sku": 732808
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Lord 2 (Лорд 2)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 160.2,
+    "price": 268,
+    "sku": 731963
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Lord 2 (Лорд 2)",
+    "width": 2.0,
+    "roll_area": 84.0,
+    "stock": 912.2,
+    "price": 268,
+    "sku": 731964
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 1257.6,
+    "price": 268,
+    "sku": 735104
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 306.25,
+    "price": 268,
+    "sku": 735103
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 239.2,
+    "price": 281,
+    "sku": 735102
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Davos 1 (Давос 1)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 754.2,
+    "price": 268,
+    "sku": 732259
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Davos 1 (Давос 1)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 1824.2,
+    "price": 268,
+    "sku": 732260
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Davos 1 (Давос 1)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 1237.2,
+    "price": 281,
+    "sku": 732261
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Dots 1 (Дотс 1)",
+    "width": 2.5,
+    "roll_area": 105.0,
+    "stock": 1425.75,
+    "price": 268,
+    "sku": 731877
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Dots 1 (Дотс 1)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 693.6,
+    "price": 281,
+    "sku": 731880
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Fabio 4 (Фабио 4)",
+    "width": 2.0,
+    "roll_area": 84.0,
+    "stock": 458.4,
+    "price": 268,
+    "sku": 732820
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Lord 3 (Лорд 3)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 63.0,
+    "price": 268,
+    "sku": 731971
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Vivid 3 (Вивид 3)",
+    "width": 2.0,
+    "roll_area": 84.0,
+    "stock": 154.4,
+    "price": 268,
+    "sku": 731948
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Vivid 3 (Вивид 3)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 1349.1,
+    "price": 268,
+    "sku": 731950
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Vivid 3 (Вивид 3)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 1575.0,
+    "price": 268,
+    "sku": 731951
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Vivid 3 (Вивид 3)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 2065.6,
+    "price": 281,
+    "sku": 731952
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Vivid 2 (Вивид 2)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 1575.3,
+    "price": 268,
+    "sku": 731939
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Vivid 2 (Вивид 2)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 89.2,
+    "price": 281,
+    "sku": 731944
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 2.5,
+    "roll_area": 105.0,
+    "stock": 621.5,
+    "price": 268,
+    "sku": 731885
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Simply (Симпли)",
+    "design": "Rimini 3 (Римини 3)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 39.15,
+    "price": 268,
+    "sku": 732606
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Sofi 1 (Софи 1)",
+    "width": 2.5,
+    "roll_area": 105.0,
+    "stock": 1402.5,
+    "price": 333,
+    "sku": 732777
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Sofi 1 (Софи 1)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 62.4,
+    "price": 333,
+    "sku": 732776
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Sofi 1 (Софи 1)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 541.2,
+    "price": 350,
+    "sku": 732774
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Domino 10 (Домино 10)",
+    "width": 2.5,
+    "roll_area": 105.0,
+    "stock": 153.0,
+    "price": 333,
+    "sku": 732346
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Domino 10 (Домино 10)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 65.8,
+    "price": 333,
+    "sku": 732348
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Domino 10 (Домино 10)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 400.4,
+    "price": 350,
+    "sku": 732349
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Kortes 3 (Кортес 3)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 30.0,
+    "price": 333,
+    "sku": 731738
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Kortes 3 (Кортес 3)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 1590.0,
+    "price": 350,
+    "sku": 731743
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Kortes 5 (Кортес 5)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 874.5,
+    "price": 333,
+    "sku": 731902
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Kortes 5 (Кортес 5)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 734.65,
+    "price": 333,
+    "sku": 731903
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Flex (Флекс)",
+    "design": "Kortes 5 (Кортес 5)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 436.0,
+    "price": 350,
+    "sku": 731904
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Aventura 9 (Авентура 9)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 34.65,
+    "price": 442,
+    "sku": 732240
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Aventura 9 (Авентура 9)",
+    "width": 3.5,
+    "roll_area": 105.0,
+    "stock": 148.05,
+    "price": 442,
+    "sku": 732244
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Aventura 10 (Авентура 10)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 27.0,
+    "price": 442,
+    "sku": 732248
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Aventura 10 (Авентура 10)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 216.5,
+    "price": 442,
+    "sku": 732250
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Aventura 10 (Авентура 10)",
+    "width": 3.0,
+    "roll_area": 90.0,
+    "stock": 78.0,
+    "price": 442,
+    "sku": 732251
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Aventura 10 (Авентура 10)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 101.6,
+    "price": 464,
+    "sku": 732253
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Domino 8 (Домино 8)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 45.0,
+    "price": 442,
+    "sku": 732320
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 349.5,
+    "price": 442,
+    "sku": 732330
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 3.0,
+    "roll_area": 90.0,
+    "stock": 62.7,
+    "price": 442,
+    "sku": 732331
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 3.5,
+    "roll_area": 105.0,
+    "stock": 226.45,
+    "price": 442,
+    "sku": 732332
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 100.4,
+    "price": 464,
+    "sku": 732333
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 1 (Вивид 1)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 72.75,
+    "price": 442,
+    "sku": 731987
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 1 (Вивид 1)",
+    "width": 3.5,
+    "roll_area": 105.0,
+    "stock": 64.05,
+    "price": 442,
+    "sku": 731991
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 4 (Вивид 4)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 27.0,
+    "price": 442,
+    "sku": 731995
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 4 (Вивид 4)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 673.25,
+    "price": 442,
+    "sku": 731997
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 4 (Вивид 4)",
+    "width": 3.0,
+    "roll_area": 90.0,
+    "stock": 1110.6,
+    "price": 442,
+    "sku": 731998
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 4 (Вивид 4)",
+    "width": 3.5,
+    "roll_area": 105.0,
+    "stock": 673.05,
+    "price": 442,
+    "sku": 731999
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Vivid 4 (Вивид 4)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 408.8,
+    "price": 464,
+    "sku": 732000
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Tatami 3 (Татами 3)",
+    "width": 2.0,
+    "roll_area": 60.0,
+    "stock": 120.0,
+    "price": 442,
+    "sku": 732599
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Tatami 3 (Татами 3)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 45.5,
+    "price": 442,
+    "sku": 732600
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Fortuna (Фортуна)",
+    "design": "Tatami 3 (Татами 3)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 1157.6,
+    "price": 464,
+    "sku": 732603
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Gent 1 (Гент 1)",
+    "width": 3.0,
+    "roll_area": 75.0,
+    "stock": 54.0,
+    "price": 600,
+    "sku": 732283
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Gent 3 (Гент 3)",
+    "width": 3.0,
+    "roll_area": 75.0,
+    "stock": 108.0,
+    "price": 600,
+    "sku": 732299
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Gent 3 (Гент 3)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 102.0,
+    "price": 630,
+    "sku": 732301
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Leon 2 (Леон 2)",
+    "width": 2.5,
+    "roll_area": 62.5,
+    "stock": 112.0,
+    "price": 600,
+    "sku": 732843
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Leon 2 (Леон 2)",
+    "width": 3.5,
+    "roll_area": 87.5,
+    "stock": 138.6,
+    "price": 600,
+    "sku": 732841
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Leon 2 (Леон 2)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 172.8,
+    "price": 630,
+    "sku": 732840
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 22 (Вегас 22)",
+    "width": 2.0,
+    "roll_area": 50.0,
+    "stock": 142.0,
+    "price": 600,
+    "sku": 732369
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 22 (Вегас 22)",
+    "width": 2.5,
+    "roll_area": 62.5,
+    "stock": 152.5,
+    "price": 600,
+    "sku": 732370
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 22 (Вегас 22)",
+    "width": 3.0,
+    "roll_area": 75.0,
+    "stock": 54.0,
+    "price": 600,
+    "sku": 732371
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 22 (Вегас 22)",
+    "width": 3.5,
+    "roll_area": 87.5,
+    "stock": 126.0,
+    "price": 600,
+    "sku": 732372
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 22 (Вегас 22)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 487.6,
+    "price": 630,
+    "sku": 732373
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 23 (Вегас 23)",
+    "width": 3.0,
+    "roll_area": 75.0,
+    "stock": 58.2,
+    "price": 600,
+    "sku": 732379
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Olimpia (Олимпия)",
+    "design": "Vegas 23 (Вегас 23)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 622.0,
+    "price": 630,
+    "sku": 732381
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Runa 1 (Руна 1)",
+    "width": 1.5,
+    "roll_area": 37.5,
+    "stock": 33.3,
+    "price": 544,
+    "sku": 732861
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Runa 1 (Руна 1)",
+    "width": 2.5,
+    "roll_area": 62.5,
+    "stock": 1898.0,
+    "price": 544,
+    "sku": 732859
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Runa 1 (Руна 1)",
+    "width": 3.0,
+    "roll_area": 75.0,
+    "stock": 375.0,
+    "price": 544,
+    "sku": 732858
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Ornes 1 (Орнес 1)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 724.8,
+    "price": 544,
+    "sku": 732309
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Ornes 2 (Орнес 2)",
+    "width": 3.5,
+    "roll_area": 87.5,
+    "stock": 107.1,
+    "price": 544,
+    "sku": 732316
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Ornes 2 (Орнес 2)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 100.0,
+    "price": 544,
+    "sku": 732317
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 2.5,
+    "roll_area": 62.5,
+    "stock": 62.5,
+    "price": 544,
+    "sku": 732338
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 3.0,
+    "roll_area": 75.0,
+    "stock": 752.7,
+    "price": 544,
+    "sku": 732339
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 3.5,
+    "roll_area": 87.5,
+    "stock": 504.7,
+    "price": 544,
+    "sku": 732340
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Domino 9 (Домино 9)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 774.4,
+    "price": 544,
+    "sku": 732341
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Vegas 23 (Вегас 23)",
+    "width": 2.5,
+    "roll_area": 62.5,
+    "stock": 59.25,
+    "price": 544,
+    "sku": 732386
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Concord (Конкорд)",
+    "design": "Vegas 23 (Вегас 23)",
+    "width": 4.0,
+    "roll_area": 100.0,
+    "stock": 471.2,
+    "price": 544,
+    "sku": 732389
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 1 (Кларисса 1)",
+    "width": 1.5,
+    "roll_area": 54.0,
+    "stock": 62.55,
+    "price": 374,
+    "sku": 732512
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 1 (Кларисса 1)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 755.75,
+    "price": 374,
+    "sku": 732514
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 1 (Кларисса 1)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 557.4,
+    "price": 374,
+    "sku": 732515
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 1 (Кларисса 1)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 126.0,
+    "price": 374,
+    "sku": 732516
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 1 (Кларисса 1)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 193.2,
+    "price": 374,
+    "sku": 732517
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 2 (Кларисса 2)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 159.25,
+    "price": 374,
+    "sku": 732524
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Clarissa 2 (Кларисса 2)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 95.6,
+    "price": 374,
+    "sku": 732525
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 449.75,
+    "price": 374,
+    "sku": 732835
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 265.8,
+    "price": 374,
+    "sku": 732834
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 301.0,
+    "price": 374,
+    "sku": 732833
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Gotick Oak 4 (Готик Дуб 4)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 372.4,
+    "price": 374,
+    "sku": 732832
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Davos 2 (Давос 2)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 73.5,
+    "price": 374,
+    "sku": 732267
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Davos 3 (Давос 3)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 144.0,
+    "price": 374,
+    "sku": 732277
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 1310.5,
+    "price": 374,
+    "sku": 732362
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 3.0,
+    "roll_area": 108.0,
+    "stock": 835.2,
+    "price": 374,
+    "sku": 732363
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Vegas 3 (Вегас 3)",
+    "width": 4.0,
+    "roll_area": 144.0,
+    "stock": 1616.4,
+    "price": 374,
+    "sku": 732365
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 2.5,
+    "roll_area": 90.0,
+    "stock": 160.0,
+    "price": 374,
+    "sku": 732538
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Pacific (Пасифик)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 3.5,
+    "roll_area": 126.0,
+    "stock": 597.1,
+    "price": 374,
+    "sku": 732540
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Kortes 3 (Кортес 3)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 441.0,
+    "price": 226,
+    "sku": 732040
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Kortes 3 (Кортес 3)",
+    "width": 2.0,
+    "roll_area": 84.0,
+    "stock": 41.2,
+    "price": 226,
+    "sku": 732045
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Kortes 3 (Кортес 3)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 821.4,
+    "price": 226,
+    "sku": 732042
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 1.5,
+    "roll_area": 63.0,
+    "stock": 53.85,
+    "price": 226,
+    "sku": 735099
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 2.5,
+    "roll_area": 105.0,
+    "stock": 630.5,
+    "price": 226,
+    "sku": 735097
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 3.0,
+    "roll_area": 126.0,
+    "stock": 616.2,
+    "price": 226,
+    "sku": 735096
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 3.5,
+    "roll_area": 147.0,
+    "stock": 1286.95,
+    "price": 226,
+    "sku": 735095
+  },
+  {
+    "type": "Бытовой",
+    "collection": "Bazis (Базис)",
+    "design": "Tisa 6 (Тиса 6)",
+    "width": 4.0,
+    "roll_area": 168.0,
+    "stock": 1162.4,
+    "price": 238,
+    "sku": 735094
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Elder Stone 1 (Старый Камень 1)",
+    "width": 2.0,
+    "roll_area": 44.0,
+    "stock": 44.0,
+    "price": 786,
+    "sku": 733525
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Elder Stone 1 (Старый Камень 1)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 2226.45,
+    "price": 786,
+    "sku": 733522
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Elder Stone 2 (Старый Камень 2)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 58.25,
+    "price": 845,
+    "sku": 733532
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Elder Stone 2 (Старый Камень 2)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 4489.8,
+    "price": 825,
+    "sku": 733531
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Elder Stone 2 (Старый Камень 2)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 4310.25,
+    "price": 786,
+    "sku": 733530
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Elder Stone 2 (Старый Камень 2)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 1216.0,
+    "price": 786,
+    "sku": 733529
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 1 (Нуменор 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 5178.25,
+    "price": 845,
+    "sku": 734341
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 1 (Нуменор 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 3732.0,
+    "price": 825,
+    "sku": 734340
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 1 (Нуменор 1)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 5572.75,
+    "price": 786,
+    "sku": 734339
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 1 (Нуменор 1)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 8750.4,
+    "price": 786,
+    "sku": 734338
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 2 (Нуменор 2)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 6864.5,
+    "price": 845,
+    "sku": 734349
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 2 (Нуменор 2)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 5182.8,
+    "price": 825,
+    "sku": 734348
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 2 (Нуменор 2)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 7956.2,
+    "price": 786,
+    "sku": 734347
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Numenor 2 (Нуменор 2)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 4642.0,
+    "price": 786,
+    "sku": 734346
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Salvador 1 (Салвадор 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 3593.5,
+    "price": 845,
+    "sku": 734415
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Salvador 1 (Салвадор 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 4666.2,
+    "price": 825,
+    "sku": 734414
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Salvador 1 (Салвадор 1)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 1258.6,
+    "price": 786,
+    "sku": 734413
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Salvador 1 (Салвадор 1)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 3169.2,
+    "price": 786,
+    "sku": 734412
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 3 (Форест 3)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 18319.0,
+    "price": 845,
+    "sku": 717209
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 3 (Форест 3)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 14569.8,
+    "price": 825,
+    "sku": 717210
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 3 (Форест 3)",
+    "width": 3.15,
+    "roll_area": 69.3,
+    "stock": 4554.9,
+    "price": 825,
+    "sku": 721364
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 3 (Форест 3)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 17237.85,
+    "price": 786,
+    "sku": 717211
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 3 (Форест 3)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 13847.2,
+    "price": 786,
+    "sku": 717212
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 1 (Форест 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 4661.25,
+    "price": 845,
+    "sku": 713376
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 1 (Форест 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 7791.3,
+    "price": 825,
+    "sku": 712755
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 1 (Форест 1)",
+    "width": 3.15,
+    "roll_area": 69.3,
+    "stock": 3393.18,
+    "price": 825,
+    "sku": 721620
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 1 (Форест 1)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 5074.65,
+    "price": 786,
+    "sku": 712756
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Forest 1 (Форест 1)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 8737.6,
+    "price": 786,
+    "sku": 712823
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 1 (Флинт 1)",
+    "width": 1.5,
+    "roll_area": 33.0,
+    "stock": 71.1,
+    "price": 825,
+    "sku": 725930
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 1 (Флинт 1)",
+    "width": 2.0,
+    "roll_area": 44.0,
+    "stock": 88.0,
+    "price": 786,
+    "sku": 725931
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 1 (Флинт 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 3499.75,
+    "price": 845,
+    "sku": 725932
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 1 (Флинт 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 6576.9,
+    "price": 825,
+    "sku": 725933
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 1 (Флинт 1)",
+    "width": 3.15,
+    "roll_area": 69.3,
+    "stock": 1597.68,
+    "price": 825,
+    "sku": 727676
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 1 (Флинт 1)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 1494.85,
+    "price": 786,
+    "sku": 725934
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 2 (Флинт 2)",
+    "width": 1.5,
+    "roll_area": 33.0,
+    "stock": 60.0,
+    "price": 825,
+    "sku": 725938
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 2 (Флинт 2)",
+    "width": 2.0,
+    "roll_area": 44.0,
+    "stock": 44.0,
+    "price": 786,
+    "sku": 725939
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 2 (Флинт 2)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 1106.5,
+    "price": 845,
+    "sku": 725940
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 2 (Флинт 2)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 3915.0,
+    "price": 825,
+    "sku": 725941
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 2 (Флинт 2)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 3709.65,
+    "price": 786,
+    "sku": 725942
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Flint 2 (Флинт 2)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 1948.4,
+    "price": 786,
+    "sku": 725943
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "California 1 (Калифорния 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 1193.25,
+    "price": 845,
+    "sku": 730224
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "California 1 (Калифорния 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 2865.0,
+    "price": 825,
+    "sku": 730225
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "California 2 (Калифорния 2)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 553.5,
+    "price": 825,
+    "sku": 730165
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "California 2 (Калифорния 2)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 1608.6,
+    "price": 786,
+    "sku": 730166
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "California 2 (Калифорния 2)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 2038.4,
+    "price": 786,
+    "sku": 730168
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Harwik 1 (Харвик 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 1414.5,
+    "price": 845,
+    "sku": 731535
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Harwik 1 (Харвик 1)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 927.2,
+    "price": 786,
+    "sku": 731538
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Harwik 2 (Харвик 2)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 1321.25,
+    "price": 845,
+    "sku": 731543
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Harwik 2 (Харвик 2)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 489.9,
+    "price": 825,
+    "sku": 731544
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Harwik 2 (Харвик 2)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 566.8,
+    "price": 786,
+    "sku": 731546
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Arona 1 (Арона 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 2494.25,
+    "price": 845,
+    "sku": 731201
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Arona 1 (Арона 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 4674.0,
+    "price": 825,
+    "sku": 731202
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Andante 1 (Анданте 1)",
+    "width": 2.5,
+    "roll_area": 55.0,
+    "stock": 1610.75,
+    "price": 845,
+    "sku": 733250
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Andante 1 (Анданте 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 915.6,
+    "price": 825,
+    "sku": 733249
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Andante 2 (Анданте 2)",
+    "width": 3.5,
+    "roll_area": 77.0,
+    "stock": 290.15,
+    "price": 786,
+    "sku": 733256
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Forum (Форум)",
+    "design": "Andante 2 (Анданте 2)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 500.0,
+    "price": 786,
+    "sku": 733255
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Kerama 5 (Керама 5)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 36.45,
+    "price": 688,
+    "sku": 733236
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Kerama 5 (Керама 5)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 3309.75,
+    "price": 708,
+    "sku": 733234
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Kerama 5 (Керама 5)",
+    "width": 3.0,
+    "roll_area": 90.0,
+    "stock": 630.0,
+    "price": 688,
+    "sku": 733233
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Toledo 15 (Толедо 15)",
+    "width": 2.0,
+    "roll_area": 54.0,
+    "stock": 54.0,
+    "price": 655,
+    "sku": 727882
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Toledo 8 (Толедо 8)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 40.5,
+    "price": 688,
+    "sku": 720714
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Granite 4 (Гранит 4)",
+    "width": 1.5,
+    "roll_area": 45.0,
+    "stock": 27.0,
+    "price": 688,
+    "sku": 726227
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Granite 4 (Гранит 4)",
+    "width": 2.0,
+    "roll_area": 54.0,
+    "stock": 648.0,
+    "price": 655,
+    "sku": 726228
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Granite 4 (Гранит 4)",
+    "width": 3.5,
+    "roll_area": 105.0,
+    "stock": 642.15,
+    "price": 655,
+    "sku": 726231
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Granite 4 (Гранит 4)",
+    "width": 4.0,
+    "roll_area": 108.0,
+    "stock": 1248.0,
+    "price": 655,
+    "sku": 726232
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Granite 5 (Гранит 5)",
+    "width": 3.0,
+    "roll_area": 90.0,
+    "stock": 6052.2,
+    "price": 688,
+    "sku": 726238
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Granite 5 (Гранит 5)",
+    "width": 4.0,
+    "roll_area": 108.0,
+    "stock": 410.4,
+    "price": 655,
+    "sku": 726240
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Falco 1 (Фалко 1)",
+    "width": 2.0,
+    "roll_area": 54.0,
+    "stock": 654.0,
+    "price": 655,
+    "sku": 710317
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Falco 1 (Фалко 1)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 2909.5,
+    "price": 708,
+    "sku": 710316
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Falco 1 (Фалко 1)",
+    "width": 4.0,
+    "roll_area": 108.0,
+    "stock": 96.0,
+    "price": 655,
+    "sku": 710313
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Fresco 1 (Фреско 1)",
+    "width": 2.5,
+    "roll_area": 75.0,
+    "stock": 2320.5,
+    "price": 708,
+    "sku": 710296
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Fresco 1 (Фреско 1)",
+    "width": 3.0,
+    "roll_area": 90.0,
+    "stock": 6919.5,
+    "price": 688,
+    "sku": 710295
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Fresco 1 (Фреско 1)",
+    "width": 3.5,
+    "roll_area": 105.0,
+    "stock": 3640.0,
+    "price": 655,
+    "sku": 710294
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Strong Plus (Стронг Плюс)",
+    "design": "Fresco 1 (Фреско 1)",
+    "width": 4.0,
+    "roll_area": 108.0,
+    "stock": 2040.8,
+    "price": 655,
+    "sku": 710293
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Origami 1 (Оригами 1)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 647.5,
+    "price": 475,
+    "sku": 733090
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Origami 1 (Оригами 1)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 666.0,
+    "price": 475,
+    "sku": 733089
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Origami 1 (Оригами 1)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 2726.85,
+    "price": 475,
+    "sku": 733088
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Origami 2 (Оригами 2)",
+    "width": 1.5,
+    "roll_area": 55.5,
+    "stock": 55.5,
+    "price": 475,
+    "sku": 733100
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Origami 2 (Оригами 2)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 2775.0,
+    "price": 475,
+    "sku": 733097
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Navi 1 (Нави 1)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 3259.5,
+    "price": 475,
+    "sku": 734391
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Navi 1 (Нави 1)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 2446.8,
+    "price": 475,
+    "sku": 734390
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Navi 1 (Нави 1)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 2012.5,
+    "price": 475,
+    "sku": 734389
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Navi 1 (Нави 1)",
+    "width": 4.0,
+    "roll_area": 140.0,
+    "stock": 4060.0,
+    "price": 475,
+    "sku": 734388
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sherwood 6 (Шервуд 6)",
+    "width": 2.0,
+    "roll_area": 70.0,
+    "stock": 40.0,
+    "price": 475,
+    "sku": 727930
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sherwood 6 (Шервуд 6)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 1202.5,
+    "price": 475,
+    "sku": 727931
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sherwood 6 (Шервуд 6)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 301.35,
+    "price": 475,
+    "sku": 727933
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sherwood 6 (Шервуд 6)",
+    "width": 4.0,
+    "roll_area": 140.0,
+    "stock": 260.0,
+    "price": 475,
+    "sku": 727934
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 1.5,
+    "roll_area": 55.5,
+    "stock": 45.0,
+    "price": 475,
+    "sku": 727577
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 1288.0,
+    "price": 475,
+    "sku": 727581
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Argo 3 (Арго 3)",
+    "width": 4.0,
+    "roll_area": 140.0,
+    "stock": 1016.8,
+    "price": 475,
+    "sku": 727582
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Gloster 3 (Глостер 3)",
+    "width": 1.5,
+    "roll_area": 55.5,
+    "stock": 262.5,
+    "price": 475,
+    "sku": 726675
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Gloster 3 (Глостер 3)",
+    "width": 2.0,
+    "roll_area": 70.0,
+    "stock": 140.0,
+    "price": 475,
+    "sku": 726676
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Havanna Oak 10 (Гавана Дуб 10)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 729.75,
+    "price": 475,
+    "sku": 726387
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Havanna Oak 10 (Гавана Дуб 10)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 906.5,
+    "price": 475,
+    "sku": 726389
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Bourbon 1 (Бурбон 1)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 627.5,
+    "price": 475,
+    "sku": 726360
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Bourbon 1 (Бурбон 1)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 266.55,
+    "price": 475,
+    "sku": 726362
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 1 (Прокси 1)",
+    "width": 2.0,
+    "roll_area": 70.0,
+    "stock": 354.8,
+    "price": 475,
+    "sku": 726335
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 1 (Прокси 1)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 4330.0,
+    "price": 475,
+    "sku": 726336
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 1 (Прокси 1)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 2094.0,
+    "price": 475,
+    "sku": 726337
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 1 (Прокси 1)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 6542.9,
+    "price": 475,
+    "sku": 726338
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 1 (Прокси 1)",
+    "width": 4.0,
+    "roll_area": 140.0,
+    "stock": 4776.8,
+    "price": 475,
+    "sku": 726339
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 2 (Прокси 2)",
+    "width": 1.5,
+    "roll_area": 55.5,
+    "stock": 32.25,
+    "price": 475,
+    "sku": 726340
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Proxi 2 (Прокси 2)",
+    "width": 4.0,
+    "roll_area": 140.0,
+    "stock": 1685.2,
+    "price": 475,
+    "sku": 726345
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Havanna Oak 1 (Гавана Дуб 1)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 615.5,
+    "price": 475,
+    "sku": 726350
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sonora 2 (Сонора 2)",
+    "width": 1.5,
+    "roll_area": 55.5,
+    "stock": 35.25,
+    "price": 475,
+    "sku": 730024
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sonora 2 (Сонора 2)",
+    "width": 2.0,
+    "roll_area": 70.0,
+    "stock": 242.0,
+    "price": 475,
+    "sku": 730023
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sonora 2 (Сонора 2)",
+    "width": 2.5,
+    "roll_area": 92.5,
+    "stock": 41.0,
+    "price": 475,
+    "sku": 730022
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sonora 2 (Сонора 2)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 4361.35,
+    "price": 475,
+    "sku": 730020
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sonora 3 (Сонора 3)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 11798.1,
+    "price": 475,
+    "sku": 730029
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Sonora 3 (Сонора 3)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 3118.5,
+    "price": 475,
+    "sku": 730028
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Marmaris 2 (Мармарис 2)",
+    "width": 3.0,
+    "roll_area": 111.0,
+    "stock": 240.0,
+    "price": 475,
+    "sku": 731266
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Master (Мастер)",
+    "design": "Marmaris 2 (Мармарис 2)",
+    "width": 3.5,
+    "roll_area": 129.5,
+    "stock": 1759.1,
+    "price": 475,
+    "sku": 731267
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 1.5,
+    "roll_area": 49.5,
+    "stock": 99.0,
+    "price": 692,
+    "sku": 732622
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 110.0,
+    "price": 692,
+    "sku": 732624
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 681.3,
+    "price": 692,
+    "sku": 732625
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 787.15,
+    "price": 692,
+    "sku": 732626
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 7 (Фреско 7)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 412.4,
+    "price": 692,
+    "sku": 732627
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 2.0,
+    "roll_area": 66.0,
+    "stock": 125.4,
+    "price": 692,
+    "sku": 732615
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 456.5,
+    "price": 692,
+    "sku": 732616
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 639.6,
+    "price": 692,
+    "sku": 732617
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 949.55,
+    "price": 692,
+    "sku": 732618
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 2 (Дотс 2)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 433.6,
+    "price": 692,
+    "sku": 732619
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Taal 5 (Таал 5)",
+    "width": 2.0,
+    "roll_area": 66.0,
+    "stock": 36.4,
+    "price": 692,
+    "sku": 732631
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Taal 5 (Таал 5)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 224.0,
+    "price": 692,
+    "sku": 732632
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Taal 5 (Таал 5)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 1464.6,
+    "price": 692,
+    "sku": 732633
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Taal 5 (Таал 5)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 539.35,
+    "price": 692,
+    "sku": 732634
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Taal 5 (Таал 5)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 621.2,
+    "price": 692,
+    "sku": 732635
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 1 (Мрамор 1)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 625.0,
+    "price": 692,
+    "sku": 734841
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 1 (Мрамор 1)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 38.15,
+    "price": 692,
+    "sku": 734839
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 1 (Мрамор 1)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 996.8,
+    "price": 692,
+    "sku": 734838
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 2 (Мрамор 2)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 698.0,
+    "price": 692,
+    "sku": 734849
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 2 (Мрамор 2)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 1246.5,
+    "price": 692,
+    "sku": 734848
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 2 (Мрамор 2)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 182.7,
+    "price": 692,
+    "sku": 734847
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Marble 2 (Мрамор 2)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 420.8,
+    "price": 692,
+    "sku": 734846
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Aventura 9 (Авентура 9)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 637.5,
+    "price": 692,
+    "sku": 730665
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Aventura 9 (Авентура 9)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 81.6,
+    "price": 692,
+    "sku": 730666
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Aventura 9 (Авентура 9)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 538.3,
+    "price": 692,
+    "sku": 730667
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Aventura 9 (Авентура 9)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 1195.2,
+    "price": 692,
+    "sku": 730668
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Kortes 4 (Кортес 4)",
+    "width": 1.5,
+    "roll_area": 49.5,
+    "stock": 22.35,
+    "price": 692,
+    "sku": 730687
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Kortes 4 (Кортес 4)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 1097.25,
+    "price": 692,
+    "sku": 730689
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Kortes 4 (Кортес 4)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 577.5,
+    "price": 692,
+    "sku": 730691
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Kortes 4 (Кортес 4)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 1289.6,
+    "price": 692,
+    "sku": 730692
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Kortes 6 (Кортес 6)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 254.4,
+    "price": 692,
+    "sku": 730699
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Kortes 6 (Кортес 6)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 54.0,
+    "price": 692,
+    "sku": 730701
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Vegas 5 (Вегас 5)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 1163.75,
+    "price": 692,
+    "sku": 730706
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Vegas 5 (Вегас 5)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 106.2,
+    "price": 692,
+    "sku": 730707
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Vegas 5 (Вегас 5)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 1220.4,
+    "price": 692,
+    "sku": 730709
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 5 (Фреско 5)",
+    "width": 1.5,
+    "roll_area": 49.5,
+    "stock": 37.65,
+    "price": 692,
+    "sku": 730679
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 5 (Фреско 5)",
+    "width": 2.5,
+    "roll_area": 82.5,
+    "stock": 613.75,
+    "price": 692,
+    "sku": 730681
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 5 (Фреско 5)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 671.1,
+    "price": 692,
+    "sku": 730682
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 5 (Фреско 5)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 2510.2,
+    "price": 692,
+    "sku": 730683
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Fresco 5 (Фреско 5)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 1558.0,
+    "price": 692,
+    "sku": 730684
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 1 (Дотс 1)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 183.0,
+    "price": 692,
+    "sku": 730674
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 1 (Дотс 1)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 493.15,
+    "price": 692,
+    "sku": 730675
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Norris (Норрис)",
+    "design": "Dots 1 (Дотс 1)",
+    "width": 4.0,
+    "roll_area": 132.0,
+    "stock": 43.6,
+    "price": 692,
+    "sku": 730676
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Muskat 7 (Мускат 7)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 355.0,
+    "price": 597,
+    "sku": 733412
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Petra 1 (Петра 1)",
+    "width": 1.5,
+    "roll_area": 49.5,
+    "stock": 180.0,
+    "price": 597,
+    "sku": 733425
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Petra 1 (Петра 1)",
+    "width": 2.0,
+    "roll_area": 60.0,
+    "stock": 184.0,
+    "price": 597,
+    "sku": 733424
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Petra 1 (Петра 1)",
+    "width": 3.0,
+    "roll_area": 99.0,
+    "stock": 27.0,
+    "price": 597,
+    "sku": 733422
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Petra 1 (Петра 1)",
+    "width": 3.5,
+    "roll_area": 115.5,
+    "stock": 70.0,
+    "price": 597,
+    "sku": 733421
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Petra 1 (Петра 1)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 550.0,
+    "price": 597,
+    "sku": 733420
+  },
+  {
+    "type": "Полукоммерческий",
+    "collection": "Vector (Вектор)",
+    "design": "Marmaris 3 (Мармарис 3)",
+    "width": 4.0,
+    "roll_area": 120.0,
+    "stock": 120.0,
+    "price": 597,
+    "sku": 733436
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 6 (Таал 6)",
+    "width": 3.0,
+    "roll_area": 78.0,
+    "stock": 1292.2,
+    "price": 795,
+    "sku": 733446
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 1 (Таал 1)",
+    "width": 1.5,
+    "roll_area": 39.0,
+    "stock": 37.2,
+    "price": 795,
+    "sku": 729265
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 1 (Таал 1)",
+    "width": 2.0,
+    "roll_area": 48.0,
+    "stock": 96.0,
+    "price": 795,
+    "sku": 729266
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 1 (Таал 1)",
+    "width": 3.5,
+    "roll_area": 91.0,
+    "stock": 4841.55,
+    "price": 795,
+    "sku": 729269
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 1 (Таал 1)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 3322.4,
+    "price": 795,
+    "sku": 729270
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 2 (Таал 2)",
+    "width": 2.0,
+    "roll_area": 48.0,
+    "stock": 55.8,
+    "price": 795,
+    "sku": 729274
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 2 (Таал 2)",
+    "width": 3.0,
+    "roll_area": 78.0,
+    "stock": 283.8,
+    "price": 795,
+    "sku": 729276
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 2 (Таал 2)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 229.6,
+    "price": 795,
+    "sku": 729278
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Taal 4 (Таал 4)",
+    "width": 2.0,
+    "roll_area": 48.0,
+    "stock": 151.2,
+    "price": 795,
+    "sku": 729993
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Venetto 1 (Венетто 1)",
+    "width": 1.5,
+    "roll_area": 39.0,
+    "stock": 39.0,
+    "price": 795,
+    "sku": 724780
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Venetto 1 (Венетто 1)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 125.6,
+    "price": 795,
+    "sku": 724785
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 8 (Невада 8)",
+    "width": 3.0,
+    "roll_area": 78.0,
+    "stock": 2014.5,
+    "price": 795,
+    "sku": 724048
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 8 (Невада 8)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 80.8,
+    "price": 795,
+    "sku": 724050
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Falco 2 (Фалко 2)",
+    "width": 2.5,
+    "roll_area": 65.0,
+    "stock": 360.0,
+    "price": 795,
+    "sku": 713489
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Falco 2 (Фалко 2)",
+    "width": 3.0,
+    "roll_area": 78.0,
+    "stock": 689.9,
+    "price": 795,
+    "sku": 710548
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Falco 2 (Фалко 2)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 1971.6,
+    "price": 795,
+    "sku": 710547
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Falco 4 (Фалко 4)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 2035.6,
+    "price": 795,
+    "sku": 710550
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 1 (Невада 1)",
+    "width": 2.0,
+    "roll_area": 48.0,
+    "stock": 48.0,
+    "price": 795,
+    "sku": 712775
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 1 (Невада 1)",
+    "width": 3.0,
+    "roll_area": 78.0,
+    "stock": 4764.72,
+    "price": 795,
+    "sku": 712774
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 1 (Невада 1)",
+    "width": 3.5,
+    "roll_area": 91.0,
+    "stock": 228.2,
+    "price": 795,
+    "sku": 713333
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 1 (Невада 1)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 435.6,
+    "price": 795,
+    "sku": 712773
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 2 (Невада 2)",
+    "width": 1.5,
+    "roll_area": 39.0,
+    "stock": 183.0,
+    "price": 795,
+    "sku": 723521
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 2 (Невада 2)",
+    "width": 3.0,
+    "roll_area": 78.0,
+    "stock": 1817.15,
+    "price": 795,
+    "sku": 712771
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 2 (Невада 2)",
+    "width": 3.5,
+    "roll_area": 91.0,
+    "stock": 449.05,
+    "price": 795,
+    "sku": 718090
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium (Премиум)",
+    "design": "Nevada 2 (Невада 2)",
+    "width": 4.0,
+    "roll_area": 96.0,
+    "stock": 4258.0,
+    "price": 795,
+    "sku": 712770
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium AS (антистатический Премиум)",
+    "design": "Nevada 1 (Невада 1)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 2718.0,
+    "price": 849,
+    "sku": 715532
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium AS (антистатический Премиум)",
+    "design": "Nevada 1 (Невада 1)",
+    "width": 4.0,
+    "roll_area": 88.0,
+    "stock": 88.0,
+    "price": 849,
+    "sku": 715525
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium AS (антистатический Премиум)",
+    "design": "Nevada 2 (Невада 2)",
+    "width": 2.0,
+    "roll_area": 44.0,
+    "stock": 41.0,
+    "price": 849,
+    "sku": 715526
+  },
+  {
+    "type": "Коммерческий",
+    "collection": "Premium AS (антистатический Премиум)",
+    "design": "Nevada 2 (Невада 2)",
+    "width": 3.0,
+    "roll_area": 66.0,
+    "stock": 5886.3,
+    "price": 849,
+    "sku": 715528
+  }
+]
